@@ -10,7 +10,7 @@ const Expertise = () => {
         <div className='container'>
           <div className='heading-title'>
             <Title title='Our expertise' />
-            <p>Vivamus a ligula ut velit placerat egestas at id leo. Nulla ac volutpat nunc. Suspendisse ut magna porttitor, sollicitudin ligula at, molestie dolor.</p>
+            <p>Licensed physiotherapists brings extensive expertise in diagnosing and treating a wide range of musculoskeletal conditions, utilizing evidence-based techniques to promote recovery, enhance mobility, and improve overall quality of life.</p>
           </div>
           <div className='hero-content grid-4'>
             {expertise.map((item) => (

@@ -9,18 +9,18 @@ const Agency = () => {
       <section className='agency bg-top'>
         <div className='container'>
           <div className='heading-title'>
-            <TitleSm title='ABOUT AGENCY' /> <br />
+            <TitleSm title='ABOUT REVIVE WELL' /> <br />
             <br />
-            <Title title='The last digital agency you will ever need!' className='title-bg' />
+            <Title title='Empowering your recovery, one online session at a time!' className='title-bg' />
           </div>
 
           <div className='content flex1'>
             <div className='left w-60 py'>
-              <TitleSm title='Turning your business ideas into smart digital products since 2001' />
-              <p className='desc-p'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rhoncus eleifend magna, molestie iaculis sem pulvinar eu. Etiam non dui felis. Proin posuere dapibus magna laoreet posuere. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin dignissim, sem eget sollicitudin tempor, libero velit aliquam enim, vel egestas tortor ante quis sem.</p>
+              <TitleSm title='Experience the empowerment of personalized online physiotherapy at your home.' />
+              <p className='desc-p'>it is the foundation of our approach to physiotherapy. By leveraging technology to provide personalized, convenient, and supportive care, we are dedicated to helping you achieve your health goals and reclaim your life. Start your journey with us today and discover the power of empowerment in your recovery.</p>
               <div className='grid-3'>
                 <div className='box'>
-                  <h1 className='indigo'>10+</h1>
+                  <h1 className='indigo'>7+</h1>
                   <h3>Years of experience</h3>
                 </div>
                 <div className='box'>
@@ -28,7 +28,7 @@ const Agency = () => {
                   <h3>Successful cases</h3>
                 </div>
                 <div className='box'>
-                  <h1 className='indigo'>12+</h1>
+                  <h1 className='indigo'>10+</h1>
                   <h3>Industry awards</h3>
                 </div>
               </div>
@@ -45,14 +45,12 @@ const Agency = () => {
             <div className='right w-60 ml'>
               <TitleSm title='Our mission' />
               <br />
-              <p className='misson-p'>Fusce fringilla justo vel dui consectetur, fringilla maximus ante malesuada. Suspendisse facilisis nisl augue, ut sollicitudin lectus ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis esse vitae officia nostrum facere. Fugiat voluptates, expedita dolore at perferendis quae libero fuga consequatur veniam, eius non fugit nulla vitae?</p>
+              <p className='misson-p'>Our mission is to empower individuals on their path to recovery and optimal health by providing accessible, personalized, and evidence-based online physiotherapy services. We are dedicated to helping our clients achieve their goals, improve their quality of life, and maintain their independence through a collaborative, patient-centered approach.</p>
             </div>
           </div>
         </div>
       </section>
 
-      <Brand />
-      <Testimonial />
       <Banner />
       <br />
       <br />

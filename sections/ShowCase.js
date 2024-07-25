@@ -11,7 +11,7 @@ const ShowCase = () => {
           <div className='heading-title'>
             <TitleSm title='SHOWCASE' /> <br />
             <br />
-            <Title title='Fresh ideas. Bold design. Smart realisation.' className='title-bg' />
+            <Title title='OUR REWARDS AND ACHIVMENTS' className='title-bg' />
           </div>
           <br />
           <br />
